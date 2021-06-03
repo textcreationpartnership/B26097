@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the merchants concerned in the loss of the ship Virgin, (taken in May 1673. by the Spaniards in the West-Indies) as it was briefly stated and presented to his Majesty / by Sir Richard Lloyd,and Sir Thomas Exton, ; being authorized so to do by his Majesties Order in Councel of the 24th. of July 1677.</title>
+            <author>Lloyd, Richard, Sir, 1634-1686.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26097</idno><idno type="EEBO-CITATION">99886593</idno>
+  <idno type="VID">187497</idno>
+  <idno type="EEBO-PROQUEST">2248537467</idno>
+  
+            <idno type="STC">Wing L2672A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[69]</idno>
+            <idno type="STC">ESTC R226255</idno>
+            <idno type="PROQUEST">ocm99886593</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886593e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187497)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the merchants concerned in the loss of the ship Virgin, (taken in May 1673. by the Spaniards in the West-Indies) as it was briefly stated and presented to his Majesty / by Sir Richard Lloyd,and Sir Thomas Exton, ; being authorized so to do by his Majesties Order in Councel of the 24th. of July 1677.</title>
+                  <author>Lloyd, Richard, Sir, 1634-1686.</author>
+                  <author>Exton, Thomas, Sir, 1631-1688.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Signed at end: Rich. Lloyd. Tho. Exton.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Virgin (Ship) --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187497:1"/>
+            <head>The <hi>CASE</hi> of the Merchants concerned in the loss of the Ship <hi>VIRGIN,</hi> (taken in <hi>May 1673.</hi> by the <hi>Spaniards</hi> in the <hi>West-Indies</hi>) as it was briefly stated and presented to his Majesty by Sir <hi>Richard Lloyd,</hi> and Sir <hi>Thomas Exton,</hi> being Authorized so to do by his Majesties Order in Councel of the <hi>24<seg rend="sup">th.</seg>
+               </hi> of <hi>July 1677.</hi>
+            </head>
+            <opener>
+               <salute>May it please your Majesty,</salute>
+            </opener>
+            <p>IN obedience to your Majesties Order in Councel of the 24. of <hi>July,</hi>
+               <note place="margin">His Majesties Order in Coun<g ref="char:EOLhyphen"/>cel, declaring the Govern<g ref="char:EOLhyphen"/>ment of <hi>Spain</hi> responsible for the Injuries done his Sub<g ref="char:EOLhyphen"/>jects, by the Capture of the Ship <hi>Virgin,</hi> ta<g ref="char:EOLhyphen"/>ken by them in the <hi>West-Indies▪</hi>
+               </note> where<g ref="char:EOLhyphen"/>in you are pleased to declare, that the Merchants, Owners and Freighters of the Ship <hi>The Virgin of London, (Edmund Cooke</hi> Master) made it appear to your Majesty by their Councel learned, That it was impossible to put in execution the Dispatches obtained from the Queen of <hi>Spain,</hi> for the Repa<g ref="char:EOLhyphen"/>ration and Satisfaction of the Losses and Damages sustained by the violent Seizure, and unjust Condemnation of the said Ship and her Lading, and that the Government of <hi>Spain</hi> is chargable with, and ought to be Responsible for the same; and by which Order you are pleased to command us to examine all the proceedings that have been in the Case, and to Report to your Majesty whether the Methods prescribed by the Treaties between both Crowns, have been punctually observed, and how far Letters of Marque and Reprizals do lye in the Case: We do most humbly certifie your Majesty, that we find by the Depositions of four or five persons, taken in your Majesties High Court of Admiralty, that the aforesaid Ship <hi>The Virgin,</hi> of the burthen of 130 Tun, was in or about <hi>August</hi> 1672. laden with several Merchandizes in the Port of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> on the accompt of <hi>James Littleton,</hi> and Company, <hi>English</hi> Merchants, and thence bound for <hi>Jamaica:</hi> that in <hi>September</hi> following she arrived there, and was re-laden thence on the same Accompt with Sugar, Indico, and other Merchandizes, and bound directly to the Port of <hi>London;</hi> and on the 10<seg rend="sup">th.</seg> of <hi>May</hi> 1673. was met with (about forty Leagues to the West of the <hi>Havana</hi>) by three <hi>Spanish</hi> Men of War,<note place="margin">The manner of the Capture of the Ship <hi>Virgin.</hi>
+               </note> whereof <hi>Philip Fitz-Garald</hi> was Admiral, who boarded the said Ship, and dispossessed the Master and Company of her, and her Lading, (though the Governour of <hi>Jamaica</hi>'s Let-pass was shewed to him) putting them into two Boats, with little or no Provision, to shift for themselves, so that they were exposed to great hardship, and hazard of their lives, and forced to row 360 Leagues before they could get to <hi>Jamaica.</hi>
+            </p>
+            <p>That the said <hi>Cooke</hi> immediately upon his arrival in <hi>July</hi> 1673. acquainted Sir <hi>Thomas Linch</hi> the Governour therewith,<note place="margin">The Master makes out his Losses to the Governour of <hi>Jamaica,</hi> and he sends to the <hi>Havana</hi> to de<g ref="char:EOLhyphen"/>mand satisfa<g ref="char:EOLhyphen"/>ction, and is denied.</note> and produced a particular of the Lading of the said Ship upon Oath, out of his Pocket-Book, being required by the said Governour to compute the value, which with the Damage, the Freight, Wages, Ammunition, Provisions, loss of Market, loss of time, and imployment of the Proceed of the Cargo, amounts to the sum of 12863 <hi>l.</hi> 8 <hi>s.</hi> 11 <hi>d.</hi> Sir <hi>Thomas Linch</hi> thereupon ordered Captain <hi>Burfield,</hi> in his Majesties Ship <hi>The Portland,</hi> to go to the <hi>Havana,</hi> to demand Restitution and Satisfaction of the Governour there: who answered, That he must go to the Crown of <hi>Spain,</hi> or <hi>England,</hi> to require it; and then went to the Court of Admiralty, and de<g ref="char:EOLhyphen"/>manded
+<pb n="2" facs="tcp:187497:2"/> of the Judge of the said Court, why they had not condemned the said Ship and her Lading? some of the Court answered, That they knew not how to justifie the condemning of her, because there was then, and at the time of the Capture, a Peace betwixt both Crowns: whereto the Governour replied, Let not that trouble you, I will answer it, for I am King of this place; and thereupon commanded them to condemn her: and the said Ship and her Lading were accordingly condemned, and sold as Prize. Satisfaction being denied at the <hi>Havana, Burfield</hi> and <hi>Cooke</hi> the Master who accompanied him, returned to <hi>Jamaica.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Cooke</hi> the Ma<g ref="char:EOLhyphen"/>ster makes his Address to his Majesty in Councel, and his Majesties Order there<g ref="char:EOLhyphen"/>upon.</note>In <hi>November</hi> 1673. <hi>Cooke</hi> came to <hi>London,</hi> and upon his humble Petition to your Majesty, you were graciously pleased on the 5<seg rend="sup">•h.</seg> of <hi>December</hi> in Councel to command my Lord <hi>Arlington,</hi> then your Majesties Principal Secretary of State, to send the Narrative presented to you by <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooke,</hi> and to write effectually in your Majesties Name, to Sir <hi>William Godolphin</hi> your Ambassador at the Court of <hi>Spain,</hi> to represent to his most Catholick Majesty, your Majesties Resent<g ref="char:EOLhyphen"/>ments of the Injuries done to your Subjects, and to demand Satisfaction for the same: And his Lordship was also ordered to acquaint the <hi>Spanish</hi> Ambassador residing here, with the aforesaid Complaints.</p>
+            <p>
+               <note place="margin">His Reference to the Lords of the Committee for Trade.</note>Upon a second Petition of <hi>Cooke</hi>'s, your Majesty was pleased on the 27<seg rend="sup">th.</seg> of <hi>February</hi> 1673/4. to refer the matter to the Right Honourable the Lords of the Committee for Trade, and to require them to Report to your Majesty what was fit to be done for the Petitioners relief.</p>
+            <p>On the 5<seg rend="sup">th.</seg> of <hi>March</hi> 1674. their Lordships did order, that the said <hi>Cooke</hi> and Company should make out upon Oath before the Judge of your Majesties High Court of Admiralty, the manner and circumstances of the Capture, and the damages and loss sustained by reason of the Capture, and to present the same to their Lordships with all speed: which was accordingly done in due form of Law,<note place="margin">His Majesties Order on the Lords Report, if satisfaction be not given within four months, then Reprizals.</note> the sum and substance whereof is above specified: Which being exhibited to your Majesty in Councel, you did by your Order of the 3<seg rend="sup">d.</seg> of <hi>July</hi> 1674. command the Petitioners to elect a fit person to present to your Majesty, to be sent by you with Letters Credential to the Court of <hi>Spain,</hi> to demand Reparation and Satisfaction for the Depredations aforesaid; declaring by the said Order, that if Satisfaction was denied, or delayed by the space of four months, you would grant them Letters of Reprizal.</p>
+            <p>
+               <note place="margin">
+                  <hi>Cooke</hi> goes to <hi>Spain</hi> with Let<g ref="char:EOLhyphen"/>ters Creden<g ref="char:EOLhyphen"/>tial, and soli<g ref="char:EOLhyphen"/>cites ten months for sa<g ref="char:EOLhyphen"/>tisfaction, but can obtain none.</note>
+               <hi>Edmund Cooke</hi> the Master, was the person sent to <hi>Spain,</hi> who continued his Solicitations there by Sir <hi>William Godolphin</hi> your Majesties Ambassador, for the space of ten months, to no purpose; therefore by an Order of the 9<seg rend="sup">th.</seg> of <hi>June</hi> 1675. he is recalled home: But before he came from <hi>Madrid,</hi> and after the receipt of the aforesaid Order, the Queen gave him a Dispatch for the <hi>Havana,</hi> bearing date the 2<seg rend="sup">d.</seg> of <hi>July</hi> 1675. thereby declaring that plenary Restitution ought to be made to the said <hi>Edmund Cooke</hi> of the value of the Prize, (except the value of the <hi>Campecha-Wood</hi>) notwithstanding the confirmation of the said Sentence by the Council of the <hi>Indies,</hi> and her approbation of it by her <hi>Cedula</hi> of the 19<seg rend="sup">th.</seg> of <hi>April</hi> 1674. she thereby giving her Fifth to the Privateer, which by the Commission or Dispatch above mentioned, is decla<g ref="char:EOLhyphen"/>red to be null and void.</p>
+            <p>On the 14<seg rend="sup">th.</seg> of <hi>July</hi> 1675. the Petitioners did again complain to your Ma<g ref="char:EOLhyphen"/>jesty, and in their Petition did set forth the Reasons why the said Dispatch
+<pb n="3" facs="tcp:187497:2"/> was insignificant:<note place="margin">Letters of Re<g ref="char:EOLhyphen"/>prizal again promised, if sa<g ref="char:EOLhyphen"/>tisfaction were not forthwith given.</note> whereupon your Majesty did that day order a Copy of the Petition and Dispatch to be delivered to Mr. Secretary <hi>Coventry,</hi> and that he should acquaint <hi>Don Petro de Ronquillis,</hi> Envoy Extraordinary of <hi>Spain,</hi> with the Petitioners complaints; and that your Majesty in expectation of a satisfacto<g ref="char:EOLhyphen"/>ry Answer from the Court of <hi>Spain,</hi> had thus long forborn to do Right to your Subjects; and that if satisfaction were not forthwith given, you could no longer deny them Letters of Reprizal, to enable them to recover the same.</p>
+            <p>On the 13<seg rend="sup">th</seg> of <hi>July</hi> 1677. the Petitioners made their humble Address to your Majesty, to be heard by their Councel upon the whole matter;<note place="margin">The Hearing before the King and Councel, and his Maje<g ref="char:EOLhyphen"/>sties Order thereupon.</note> and on the 24<seg rend="sup">th.</seg> of <hi>July</hi> your Majesty was pleased to hear their Councel, and to make the aforesaid Order to us directed, and you did at the same time command Mr. Secretary <hi>Coventry,</hi> to write to Sir <hi>William Godolphin</hi> your Ambassador in <hi>Spain,</hi> to acquaint that Court how your Majesty is pressed in the case, and that he vigorously insist for satisfaction; and to let them know, that your Majesty hath under your consideration the granting of Letters of Reprizal, and must give effectual orders therein, if speedy Justice be not done.</p>
+            <p>Having out of the Papers and Orders that were brought to us,<note place="margin">The Judges Opinion upon the whole Case.</note> deduced with as much brevity as we could, the foregoing Narrative of all the proceedings that have been in this Case; It is our most humble Opinion, That (in regard your Majesty has but newly received satisfaction that the Government of <hi>Spain</hi> is Responsible for the Injuries above mentioned) it may be proper for your Majesty to command, that a Copy of this Narrative be sent to your Am<g ref="char:EOLhyphen"/>bassador, to present to his most Catholick Majesty, that he may see the several Instances that have been made from time to time, and to order him to require Reparation and Satisfaction to be made within six months from the delivery thereof. This will put the Question out of dispute, whether the Methods pre<g ref="char:EOLhyphen"/>scribed by the Treaties between both Crowns, have been punctually observed, and will make the demand of Justice most fully compleat; and then your Ma<g ref="char:EOLhyphen"/>jesty may both by the Law of Nations, and the aforesaid Treaties, grant to the Complainants Letters of Reprizal, for the Recovery of their loss and damage.</p>
+            <closer>
+               <signed>All which is most humbly submitted to your Majesties Royal Wisdom,<note place="margin">
+                     <hi>September</hi> 17.</note>
+                  <list>
+                     <item>RICH. LLOYD.</item>
+                     <item>THO. EXTON.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Upon this Report, confirmed by his Majesty in Councel in <hi>September</hi> was three years, the King of <hi>Spain</hi> was allowed but six months time to give satis<g ref="char:EOLhyphen"/>faction to the Petitioners, and it is now above three years since, and yet no satisfaction given them, notwithstanding the many instances and diligences his Majesties Ambassador in that Court, hath since made to that King, besides the delivery of the Report: So that there being no hopes or expectation of Justice to come from that Court in this Case, it is the humble Supplication of the Peti<g ref="char:EOLhyphen"/>tioners, that now at length his Majesty would grant them Letters of Reprizals, to enable them to recover their losses and damages sustained by the Capture of the said Ship, it being acknowledged to have been illegal both by the late Queen Regent, and the King of <hi>Spain</hi> that now is; some of the Petitioners being utterly ruined upon this very account, and must inevitably perish in Prison, unless timely supported by his Majesties Justice and Protection.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
